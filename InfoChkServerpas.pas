@@ -54,7 +54,7 @@ uses Ping2;
 
 procedure TForm1.Btn_ExitClick(Sender: TObject);
 begin
-  Close;
+  Close;             //asfdadsf
 end;
 
 procedure TForm1.Btn_StartClick(Sender: TObject);
