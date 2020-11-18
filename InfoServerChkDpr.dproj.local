@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.720,=C:\Users\June\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.926,C:\Users\June\Documents\Embarcadero\Studio\Projects\Unit1.pas=F:\Radstudio\ServerApp\InfoChkServerpas.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.926,C:\Users\June\Documents\Embarcadero\Studio\Projects\Unit1.dfm=F:\Radstudio\ServerApp\InfoChkServerpas.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.021,C:\Users\June\Documents\Embarcadero\Studio\Projects\Project1.dproj=F:\Radstudio\ServerApp\InfoServerChkDpr.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.962,=F:\Radstudio\ServerApp\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.078,F:\Radstudio\ServerApp\Unit1.pas=F:\Radstudio\ServerApp\Ping2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
